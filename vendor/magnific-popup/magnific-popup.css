@@ -5,6 +5,7 @@
   width: 100%;
   height: 100%;
   z-index: 1042;
+  margin: auto;
   overflow: hidden;
   position: fixed;
   background: #0b0b0b;
@@ -14,6 +15,7 @@
   top: 0;
   left: 0;
   width: 100%;
+  margin: auto;
   height: 100%;
   z-index: 1043;
   position: fixed;
@@ -25,9 +27,10 @@
   position: absolute;
   width: 60%;
   height: 60%;
+  margin: auto;
   left: 0;
   top: 0;
-  padding: 0 8px;
+  padding: 0 2px;
   box-sizing: border-box; }
 
 .mfp-container:before {
