@@ -48,8 +48,7 @@
   z-index: 1045; }
 
 .mfp-inline-holder .mfp-content,
-.mfp-ajax-holder .mfp-content {
-  width: 100%;
+.mfp-ajax-holder .mfp-content {  
   cursor: auto; }
 
 .mfp-ajax-cur {
