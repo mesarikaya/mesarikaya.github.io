@@ -17,6 +17,7 @@
   width: 100%;
   margin: auto;
   height: 100%;
+  float: none;
   z-index: 1043;
   position: fixed;
   outline: none !important;
@@ -25,6 +26,7 @@
 .mfp-container {
   text-align: center;
   position: absolute;
+  float: none;
   width: 60%;
   height: 60%;
   margin: auto;
@@ -37,7 +39,8 @@
   content: '';
   display: inline-block;
   height: 100%;
-  vertical-align: middle; }
+  vertical-align: middle; 
+  float: none;}
 
 .mfp-align-top .mfp-container:before {
   display: none; }
