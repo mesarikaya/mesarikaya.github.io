@@ -2,8 +2,8 @@
 .mfp-bg {
   top: 0;
   left: 0;
-  width: 60%;
-  height: 60%;
+  width: 100%;
+  height: 100%;
   z-index: 1042;
   margin: auto;
   overflow: hidden;
@@ -14,9 +14,9 @@
 .mfp-wrap {
   top: 0;
   left: 0;
-  width: 60%;
+  width: 100%;
   margin: auto;
-  height: 60%;
+  height: 100%;
   float: none;
   z-index: 1043;
   position: fixed;
@@ -27,12 +27,12 @@
   text-align: center;
   position: absolute;
   float: none;
-  width: 60%;
-  height: 60%;
+  width: 80%;
+  height: 80%;
   margin: auto;
   left: 0;
   top: 0;
-  padding: 0 2px;
+  padding: 10%;
   box-sizing: border-box; }
 
 .mfp-container:before {
