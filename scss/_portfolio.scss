@@ -31,7 +31,7 @@
 .portfolio-modal {
   .portfolio-modal-dialog {
     padding: 3rem 1rem;
-    min-height: calc(100vh - 2rem);
+    min-height: calc(50vh - 2rem);
     margin: 1rem calc(1rem - 8px);
     position: relative;
     z-index: 2;
@@ -52,7 +52,7 @@
   }
   @media(min-width: 768px) {
     .portfolio-modal-dialog {
-      min-height: 100vh;
+      min-height: 50vh;
       padding: 5rem;
       margin: 3rem calc(3rem - 8px);
       h2 {
